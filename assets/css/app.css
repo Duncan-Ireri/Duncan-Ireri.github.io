@@ -1,0 +1,14 @@
+html, body{
+    background-color: #303139;
+    color: #FCFDFD;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1, h2, h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 5rem !important;
+}
+
+.hero-sub{
+    font-size: 1.75rem;
+}
