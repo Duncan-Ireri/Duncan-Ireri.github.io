@@ -4,11 +4,22 @@ html, body{
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-h1, h2, h3{
+h1{
     font-family: 'Bebas Neue', cursive;
     font-size: 5rem !important;
 }
 
+h2{
+	font-family: 'Bebas Neue', cursive;
+    font-size: 2rem !important;
+}
+
 .hero-sub{
-    font-size: 1.75rem;
+    font-size: 1.5rem;
+}
+
+.hero-data{
+	color: var(--color-alert-warn-text);
+    background-image: linear-gradient(var(--color-alert-warn-bg),var(--color-alert-warn-bg));
+    border-color: var(--color-alert-warn-border);
 }
